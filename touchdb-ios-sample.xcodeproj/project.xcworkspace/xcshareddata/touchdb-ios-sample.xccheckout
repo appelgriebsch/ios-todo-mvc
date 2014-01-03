@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4DD5D11C-2C8B-493E-AED2-419104A2113C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>touchdb-ios-sample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFCFE873-1ABF-431F-A745-B131759ECC5A</key>
+		<string>https://bitbucket.org/appelgriebsch/touchdb_ios_sample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>touchdb-ios-sample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFCFE873-1ABF-431F-A745-B131759ECC5A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/appelgriebsch/touchdb_ios_sample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFCFE873-1ABF-431F-A745-B131759ECC5A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFCFE873-1ABF-431F-A745-B131759ECC5A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>touchdb-ios-sample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
